@@ -1,3 +1,1 @@
-# react-ycfbzu
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-ycfbzu)
+IT IS A SIMPLE GOOGLE MEETUP WEB APPLICATION.
